@@ -11,6 +11,8 @@
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
+        
+        <script src="<?php echo _URL_; ?>/html/js/script.js"></script>
     </head>
     <body>
         <header>
