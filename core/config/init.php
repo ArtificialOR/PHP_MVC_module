@@ -14,5 +14,3 @@
     define('_DB_NAME_', 'mvc_db');
     define('_DB_USER_', 'root');
     define('_DB_PASS_', '');
-
-    define('HASH_COST_FACTOR', '10');
