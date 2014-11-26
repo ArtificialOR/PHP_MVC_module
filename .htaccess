@@ -3,7 +3,7 @@ Options -MultiViews
 
 RewriteEngine On
 
-RewriteBase /mvc/
+RewriteBase /PHP_MVC_sample/
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f

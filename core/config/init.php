@@ -2,7 +2,7 @@
     error_reporting(E_ALL);
     ini_set('display_errors', 1);
 
-    define('_URL_', 'http://127.0.0.1/mvc/');
+    define('_URL_', 'http://127.0.0.1/PHP_MVC_sample/');
 
     define('_LIB_', 'core/lib/');
     define('_CONTROLLER_', 'core/controller/');
